@@ -1,5 +1,8 @@
 package main
 
+// A linked-list
+// and a persistent linked-list
+
 import "fmt"
 
 type LLNode struct {
